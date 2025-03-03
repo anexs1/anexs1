@@ -1,9 +1,6 @@
 # 💫 About Me:
-![image](https://github.com/user-attachments/assets/a673f00f-45ef-4e06-9811-9c9a268b5f70)
-
 Hi there! I'm Anuwar, a passionate Information Technology student at Arba Minch University. I enjoy working on frontend  web development and have experience with:<br><br>Frontend: React.js, JavaScript, HTML, CSS<br>Backend: Node.js, Express.js Next.js<br>Database: MySQL and MongoDB<br>Tools: Git, GitHub, XAMPP, Canva
-
-
+![image](https://github.com/user-attachments/assets/a673f00f-45ef-4e06-9811-9c9a268b5f70)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@Anexss12)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@anexs1)  
