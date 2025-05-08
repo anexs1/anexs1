@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/a673f00f-45ef-4e06-9811-9c9a268b5f70)
 
 
- I'm  passionate Information Technology student at Arba Minch University. I love building interactive and user-friendly web applications, with a focus on frontend development. Here's a glimpse of my skills and tools:
+ I'm Studing Information Technology student at Arba Minch University. I love building interactive and user-friendly web applications, with a focus on frontend development. Here's a glimpse of my skills and tools:
 
 Frontend: React.js, JavaScript, HTML, CSS
 Backend: Node.js, Express.js, Next.js
